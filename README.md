@@ -1,0 +1,2 @@
+# wiki
+Basic Wiki
